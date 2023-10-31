@@ -1,0 +1,135 @@
+body{
+  background-image: url('https://pskinetic.com/wp-content/uploads/2022/03/Businessman-trading-online-stock-market-on-teblet-screen-digital-investment-concept.jpg');
+  background-color: #616161;
+}
+
+#neubar {
+  background: #090808;
+  box-shadow: 4px 6px 12px rgba(235, 231, 231, 0.4)
+}
+
+
+ 
+#neubar .dropdown-menu a:hover {
+  color: #d5710d
+}
+#neubar .nav-item {
+  margin : auto 4px;
+  font-weight: bold;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#neubar a {
+
+  padding-left:12px;
+  padding-right:12px;
+}
+#neubar .dropdown-menu {
+  background : #f8f8f6
+}
+a.navbar-brand {
+  color: #f6f4f4;
+  font-weight: bold;
+  font-size: 30px;
+
+}
+ 
+.heading1 h1,h2{
+  text-align: center;
+  margin-top: 50px;
+  
+}
+h1{
+  color: black;
+}
+h2{
+  color: black;
+}
+
+ 
+.card {
+  background-color: #040303;
+  
+  margin-top: 50px;
+  border: 2px solid;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 20px;
+   
+}
+
+.head1 {
+  font-weight: 900;
+  font-size: 30px;
+}
+
+.bdr {
+  border-bottom: 1.5px solid #FFB74D;
+  width: 65px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.card-footer {
+  justify-content: space-between;
+  border: none;
+  background: none;
+  border-bottom: 0.5px solid #2e0202;
+}
+
+.footer-right>i {
+  margin-left: 15px;
+}
+
+.fa-hand-holding-usd {
+  color: #050505;
+}
+
+.fa-handshake {
+  color: #101010;
+}
+
+.card-title {
+  margin-bottom: .75rem;
+  font-weight: 900;
+  font-size: 15px;
+  margin-top: 1.75rem;
+}
+
+.learn-more {
+  color: #FFB74D;
+}
+
+.fa-angle-right {
+  margin-left: 10px;
+}
+
+.fa-3x {
+  color: #FFB74D;
+}
+
+.card-content {
+  padding-right: 40px;
+  padding-left: 30px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.card-content>p {
+  color: #0b0606;
+} 
+
+.heading {
+  position: relative;
+  top: 75px;
+}
+
+.follow-text {
+  color: #0a0909;
+}
+.container-fluid{
+margin-top: 500px;
+
+}
+.row{
+  --bs-gutter-x: -1.5rem;
+}

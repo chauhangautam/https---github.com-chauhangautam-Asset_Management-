@@ -1,0 +1,66 @@
+
+#neubar {
+  background: #090808;
+  box-shadow: 4px 6px 12px rgba(235, 231, 231, 0.4)
+}
+
+
+ 
+#neubar .dropdown-menu a:hover {
+  color: #d5710d
+}
+#neubar .nav-item {
+  margin : auto 4px;
+  font-weight: bold;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#neubar a {
+
+  padding-left:12px;
+  padding-right:12px;
+}
+#neubar .dropdown-menu {
+  background : #f8f8f6
+}
+a.navbar-brand {
+  color: #f6f4f4;
+  font-weight: bold;
+  font-size: 30px;
+
+}
+ 
+.heading1 h1,h2{
+  text-align: center;
+  margin-top: 50px;
+  
+}
+h1{
+  color: black;
+}
+h2{
+  color: black;
+}
+
+ 
+.card {
+  background-color: #040303;
+  
+  margin-top: 50px;
+  border: 2px solid;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 20px;
+   
+}
+
+.head1 {
+  font-weight: 900;
+  font-size: 30px;
+}
+
+.bdr {
+  border-bottom: 1.5px solid #FFB74D;
+  width: 65px;
+  margin-right: auto;
+  margin-left: auto;
+}
